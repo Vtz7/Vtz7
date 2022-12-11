@@ -7,6 +7,3 @@ Hi, Eu sou o Vtz 🖤
 
 ![Vtz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vtz7&show_icons=true&theme=transparent)
 
-  <a href="https://discord.com/users/423207882935369738"><img src="https://lanyard-profile-readme.vercel.app/api/423207882935369738" width=45%></a>
-</div>
-
